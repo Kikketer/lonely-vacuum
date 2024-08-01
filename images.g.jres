@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "roomba"
     },
+    "image2": {
+        "data": "hwQQACAAAAAAAAAAAAAAAAAAAAAAAAAA4O7u7u7u7u7u7u5O7u4MAODu7u7u7u7u7u7u7u7uzADg7u7uTu7u7u7u7u7u7sAM4O7k7u7u7k7u7u7u7u4ADODu7u7u7u7u7u7u7u7uAADg7u7u7u7u7u7u7u7u7gAA4O7u7u7u7u7u7u7u7u4AAODu7u7u7u7u7k7u7u7uAADg7u7u7u7u7u7u7u5O7gAA4O7u5O7u7u7u7u7u7u4AAOBO7u7u7u7u7u7u7u7uDADg7u7u7u7u7u7u7u7u7swAAMwAAAAAAAAAAAAAAMDMDADADAAAAAAAAAAAAAAAzAAAAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "table"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
